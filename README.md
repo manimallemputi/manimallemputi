@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manimallemputi. you can call me Mani
 - 👀 I’m interested in DevOps and worked as an SRE DevOps Engineer
 - 🌱 I’m currently learning Scripting.
-- 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an Engineer Smile:
 
